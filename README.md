@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Logeshwar718/Leetcode/tree/master/0258-add-digits) |
+## Array
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Logeshwar718/Leetcode/tree/master/0283-move-zeroes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Logeshwar718/Leetcode/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
