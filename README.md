@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Logeshwar718/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Logeshwar718/Leetcode/tree/master/0258-add-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Logeshwar718/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3099-harshad-number](https://github.com/Logeshwar718/Leetcode/tree/master/3099-harshad-number) |
 ## Simulation
 |  |
 | ------- |
