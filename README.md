@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Logeshwar718/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Logeshwar718/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/Logeshwar718/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Logeshwar718/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Logeshwar718/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Logeshwar718/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/Logeshwar718/Leetcode/tree/master/0169-majority-element) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/Logeshwar718/Leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/Logeshwar718/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Logeshwar718/Leetcode/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -84,5 +86,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Logeshwar718/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/Logeshwar718/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 <!---LeetCode Topics End-->
