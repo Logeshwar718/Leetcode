@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Logeshwar718/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Logeshwar718/Leetcode/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Logeshwar718/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
+| [1480-running-sum-of-1d-array](https://github.com/Logeshwar718/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Logeshwar718/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Logeshwar718/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Logeshwar718/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Logeshwar718/Leetcode/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Logeshwar718/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 ## Greedy
 |  |
 | ------- |
