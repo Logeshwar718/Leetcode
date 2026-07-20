@@ -7,12 +7,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Logeshwar718/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Logeshwar718/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Logeshwar718/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Logeshwar718/Leetcode/tree/master/0412-fizz-buzz) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Logeshwar718/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3099-harshad-number](https://github.com/Logeshwar718/Leetcode/tree/master/3099-harshad-number) |
 ## Simulation
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Logeshwar718/Leetcode/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Logeshwar718/Leetcode/tree/master/0412-fizz-buzz) |
 ## Number Theory
 |  |
 | ------- |
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/Logeshwar718/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Logeshwar718/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Logeshwar718/Leetcode/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/Logeshwar718/Leetcode/tree/master/0412-fizz-buzz) |
 ## Trie
 |  |
 | ------- |
