@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Logeshwar718/Leetcode/tree/master/2235-add-two-integers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Logeshwar718/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3099-harshad-number](https://github.com/Logeshwar718/Leetcode/tree/master/3099-harshad-number) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Logeshwar718/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Simulation
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/Logeshwar718/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/Logeshwar718/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Logeshwar718/Leetcode/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Logeshwar718/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
