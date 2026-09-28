@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/Logeshwar718/Leetcode/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Logeshwar718/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Logeshwar718/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Logeshwar718/Leetcode/tree/master/0389-find-the-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Logeshwar718/Leetcode/tree/master/0169-majority-element) |
+| [0389-find-the-difference](https://github.com/Logeshwar718/Leetcode/tree/master/0389-find-the-difference) |
 ## Counting
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Logeshwar718/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Logeshwar718/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Logeshwar718/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0389-find-the-difference](https://github.com/Logeshwar718/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Logeshwar718/Leetcode/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/Logeshwar718/Leetcode/tree/master/0412-fizz-buzz) |
 ## Trie
@@ -103,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Logeshwar718/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Logeshwar718/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1572-matrix-diagonal-sum](https://github.com/Logeshwar718/Leetcode/tree/master/1572-matrix-diagonal-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Logeshwar718/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
